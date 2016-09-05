@@ -86,7 +86,7 @@ if (yias) {
                 dataType: 'json',
                 url: yias.ajax._ajaxurl,
                 data: yias.ajax._getXML(),
-                //headers: { "Authorization": "GameUI " + getMyHeaders() },
+                headers: { "Authorization": "GameUI " + getMyHeaders() },
                 contentType: "application/json; charset=utf-8",
                 cache: false,
                 async: false,
