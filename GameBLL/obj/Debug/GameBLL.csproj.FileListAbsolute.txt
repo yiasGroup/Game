@@ -1,0 +1,5 @@
+G:\MyBak\YIAS\MyWorkFile\FILE\DEMO\Git\GameBLL\bin\Debug\GameBLL.dll
+G:\MyBak\YIAS\MyWorkFile\FILE\DEMO\Git\GameBLL\bin\Debug\GameBLL.pdb
+G:\MyBak\YIAS\MyWorkFile\FILE\DEMO\Git\GameBLL\obj\Debug\GameBLL.dll
+G:\MyBak\YIAS\MyWorkFile\FILE\DEMO\Git\GameBLL\obj\Debug\GameBLL.pdb
+G:\MyBak\YIAS\MyWorkFile\FILE\DEMO\Git\GameBLL\obj\Debug\GameBLL.csprojResolveAssemblyReference.cache

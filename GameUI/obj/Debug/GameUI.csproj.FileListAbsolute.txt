@@ -1,0 +1,12 @@
+G:\MyBak\YIAS\MyWorkFile\FILE\DEMO\Git\GameUI\bin\GameUI.dll.config
+G:\MyBak\YIAS\MyWorkFile\FILE\DEMO\Git\GameUI\bin\GameUI.dll
+G:\MyBak\YIAS\MyWorkFile\FILE\DEMO\Git\GameUI\bin\GameUI.pdb
+G:\MyBak\YIAS\MyWorkFile\FILE\DEMO\Git\GameUI\obj\Debug\GameUI.dll
+G:\MyBak\YIAS\MyWorkFile\FILE\DEMO\Git\GameUI\obj\Debug\GameUI.pdb
+G:\MyBak\YIAS\MyWorkFile\FILE\DEMO\Git\GameUI\obj\Debug\GameUI.csprojResolveAssemblyReference.cache
+D:\YIAS\MyWorkFile\FILE\DEMO\Git\Game\GameUI\bin\GameUI.dll.config
+D:\YIAS\MyWorkFile\FILE\DEMO\Git\Game\GameUI\bin\GameUI.dll
+D:\YIAS\MyWorkFile\FILE\DEMO\Git\Game\GameUI\bin\GameUI.pdb
+D:\YIAS\MyWorkFile\FILE\DEMO\Git\Game\GameUI\obj\Debug\GameUI.csprojResolveAssemblyReference.cache
+D:\YIAS\MyWorkFile\FILE\DEMO\Git\Game\GameUI\obj\Debug\GameUI.dll
+D:\YIAS\MyWorkFile\FILE\DEMO\Git\Game\GameUI\obj\Debug\GameUI.pdb
