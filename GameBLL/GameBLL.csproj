@@ -42,6 +42,20 @@
     <Compile Include="LoginBLL.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DBHelp\DBHelp.csproj">
+      <Project>{03e6b109-ea31-4cdc-bb95-9cdf4880a102}</Project>
+      <Name>DBHelp</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Models\Models.csproj">
+      <Project>{971f1d61-652d-45a6-8fc8-19f1026009d5}</Project>
+      <Name>Models</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PublicClass\PublicClass.csproj">
+      <Project>{d08aeed4-04a0-4cb4-9ba5-8d4f82f0cc67}</Project>
+      <Name>PublicClass</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

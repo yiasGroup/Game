@@ -1,6 +1,6 @@
 ﻿var yias = {};
 var jsList = [
-     "<script src='js/jquery-1.8.2.min.js' type='text/javascript'></script>",
+     "<script src='js/jquery-2.0.3.min.js' type='text/javascript'></script>",
      "<script src='js/jquery.cookie.js' type='text/javascript'></script>",
      "<script src='js/yias.ajax.js' type='text/javascript'></script>"
 ];
@@ -12,7 +12,9 @@ function GetHeadJs() {
         document.write(jsList[i]);
     }
 }
-
+function getd(id) {
+    return document.getElementById(id);
+}
 function toJSON(o) {
     var f = function (n) {
         return n < 10 ? '0' + n : n;

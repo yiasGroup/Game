@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Models;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,14 +9,18 @@ namespace GameBLL
 {
     public class LoginBLL
     {
-        public bool LoginManage(string name, string pass)
+        public string LoginManage(string name, string pass)
         {
-            bool retValue = false;
+            SysUserInfo user = new SysUserInfo();
             if (name == "admin" && pass == "123")
             {
-                retValue = true;
+                user.UserID = "admin";
+                user.UserName = "管理员";
+                user.Roles = new List<SysUserRole>();
+                user.Roles.Add(new SysUserRole() { RoleName = "后台管理员" });
+                return user.ToString();
             }
-            return retValue;
+            return "";
         }
     }
 }

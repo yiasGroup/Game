@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Newtonsoft.Json;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
@@ -34,6 +35,27 @@ namespace Models
         {
             get { return _CaiDans; }
             set { _CaiDans = value; }
+        }
+        public override string ToString()
+        {
+            return PublicClass.PublicClass.Encrypt(JsonConvert.SerializeObject(this));
+        }
+        public SysUserInfo() { }
+        public SysUserInfo(string str)
+        {
+            if (!string.IsNullOrEmpty(str))
+            {
+                try
+                {
+                    var user = JsonConvert.DeserializeObject<SysUserInfo>(PublicClass.PublicClass.Decrypt(str));
+                    this._CaiDans = user.CaiDans;
+                    this._Roles = user.Roles;
+                    this._UserID = user.UserID;
+                    this._UserName = user.UserName;
+                }
+                catch (Exception)
+                {}
+            }
         }
     }
     [Serializable]
