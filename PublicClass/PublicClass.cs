@@ -61,10 +61,12 @@ namespace PublicClass
                 {
                     SetConfig();
                 }
-                return _connStr;
+                return string.Format(_connStr, GetServiceString);
                 //return string.Format(ConfigurationManager.ConnectionStrings["ConnStr"].ConnectionString, GetServiceString);
             }
         }
+
+        private static string GetServiceString { get { return System.AppDomain.CurrentDomain.SetupInformation.ApplicationBase; } }
         private static string _dataType = null;
         /// <summary>
         /// 数据库类型

@@ -54,6 +54,6 @@ G:\MyBak\YIAS\MyWorkFile\FILE\DEMO\Git\PublicClass\obj\Debug\PublicClass.csprojR
 D:\YIAS\MyWorkFile\FILE\DEMO\Git\Game\DLL\PublicClass.dll.config
 D:\YIAS\MyWorkFile\FILE\DEMO\Git\Game\DLL\PublicClass.dll
 D:\YIAS\MyWorkFile\FILE\DEMO\Git\Game\DLL\PublicClass.pdb
-D:\YIAS\MyWorkFile\FILE\DEMO\Git\Game\PublicClass\obj\Debug\PublicClass.csprojResolveAssemblyReference.cache
 D:\YIAS\MyWorkFile\FILE\DEMO\Git\Game\PublicClass\obj\Debug\PublicClass.dll
 D:\YIAS\MyWorkFile\FILE\DEMO\Git\Game\PublicClass\obj\Debug\PublicClass.pdb
+D:\YIAS\MyWorkFile\FILE\DEMO\Git\Game\PublicClass\obj\Debug\PublicClass.csprojResolveAssemblyReference.cache

@@ -88,3 +88,13 @@ G:\MyBak\YIAS\MyWorkFile\FILE\DEMO\Git\WebConfigForm\bin\Debug\WebConfigForm.pdb
 G:\MyBak\YIAS\MyWorkFile\FILE\DEMO\Git\WebConfigForm\obj\x86\Debug\WebConfigForm.csprojResolveAssemblyReference.cache
 G:\MyBak\YIAS\MyWorkFile\FILE\DEMO\Git\WebConfigForm\obj\x86\Debug\WebConfigForm.exe
 G:\MyBak\YIAS\MyWorkFile\FILE\DEMO\Git\WebConfigForm\obj\x86\Debug\WebConfigForm.pdb
+D:\YIAS\MyWorkFile\FILE\DEMO\Git\Game\WebConfigForm\bin\Debug\WebConfigForm.exe.config
+D:\YIAS\MyWorkFile\FILE\DEMO\Git\Game\WebConfigForm\bin\Debug\WebConfigForm.exe
+D:\YIAS\MyWorkFile\FILE\DEMO\Git\Game\WebConfigForm\bin\Debug\WebConfigForm.pdb
+D:\YIAS\MyWorkFile\FILE\DEMO\Git\Game\WebConfigForm\obj\x86\Debug\WebConfigForm.csprojResolveAssemblyReference.cache
+D:\YIAS\MyWorkFile\FILE\DEMO\Git\Game\WebConfigForm\obj\x86\Debug\WebConfigForm.MainFrom.resources
+D:\YIAS\MyWorkFile\FILE\DEMO\Git\Game\WebConfigForm\obj\x86\Debug\WebConfigForm.Properties.Resources.resources
+D:\YIAS\MyWorkFile\FILE\DEMO\Git\Game\WebConfigForm\obj\x86\Debug\WebConfigForm.TestCom3.resources
+D:\YIAS\MyWorkFile\FILE\DEMO\Git\Game\WebConfigForm\obj\x86\Debug\WebConfigForm.csproj.GenerateResource.Cache
+D:\YIAS\MyWorkFile\FILE\DEMO\Git\Game\WebConfigForm\obj\x86\Debug\WebConfigForm.exe
+D:\YIAS\MyWorkFile\FILE\DEMO\Git\Game\WebConfigForm\obj\x86\Debug\WebConfigForm.pdb

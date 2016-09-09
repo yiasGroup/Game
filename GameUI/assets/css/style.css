@@ -1,0 +1,43 @@
+﻿
+.formBody {
+    border: none;
+    background-color: transparent;
+}
+
+    .formBody .control-label {
+        font-size: 15px;
+        width: 130px;
+        height: 40px;
+        line-height: 40px;
+        text-align: right;
+    }
+
+    .formBody .vtop {
+        vertical-align: top;
+    }
+
+    .formBody .controls input[type=checkbox], .formBody .controls input[type=radio] {
+        opacity: 1;
+        margin: 0px;
+        padding: 0px;
+    }
+
+    .formBody .menu-text {
+        font-size: 16px;
+    }
+
+    .formBody .modal {
+        left: 0;
+        top: 0;
+        right: 0;
+    }
+
+.MainBody .modal-body {
+    max-height: initial;
+    overflow: hidden;
+    padding: 0;
+}
+
+.MainBody .modal {
+    width: 600px;
+}

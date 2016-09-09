@@ -46,7 +46,7 @@ if (yias) {
     };
 
     yias.ajax = {
-        _ajaxurl: "http://localhost:2650/service/send",
+        _ajaxurl: "http://localhost:58551/service/send",
         _root: { "type": "json" },
         load: function () {
             this._root = { "type": "json" };

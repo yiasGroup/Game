@@ -1,0 +1,10 @@
+﻿################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+
+/DLL
+/GameBLL/bin/Debug
+/GameModel
+/GameUI/obj/Debug
+/WebConfigForm/bin/Debug
+/WebServe/bin

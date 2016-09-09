@@ -4,18 +4,8 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <title></title>
     <script src="js/yias.utility.js"></script>
-    <script>
-        GetHeadJs();
-        function btnClick() {
-            yias.ajax.add("name", "admin");
-            yias.ajax.add("pass", "123");
-            yias.ajax.send("GameBLL", "LoginBLL", "LoginManage", function (ret) {
-                alert(ret);
-            });
-        }
-    </script>
 </head>
 <body>
-    <button onclick="btnClick()">测试</button>
+   <!-- 游戏列表（选择进入） -->
 </body>
 </html>

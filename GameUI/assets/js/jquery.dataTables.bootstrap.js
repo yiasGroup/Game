@@ -1,6 +1,6 @@
 //http://datatables.net/plug-ins/pagination#bootstrap
 $.extend( true, $.fn.dataTable.defaults, {
-	"sDom": "<'row'<'col-sm-6'l><'col-sm-6'f>r>t<'row'<'col-sm-6'i><'col-sm-6'p>>",
+	"sDom": "<'row-fluid'<'span6'l><'span6'f>r>t<'row-fluid'<'span6'i><'span6'p>>",
 	"sPaginationType": "bootstrap",
 	"oLanguage": {
 		"sLengthMenu": "Display _MENU_ records"
@@ -34,8 +34,8 @@ $.extend( $.fn.dataTableExt.oPagination, {
                 }
             };
  
-            $(nPaging).append(
-                '<ul class="pagination">'+
+            $(nPaging).addClass('pagination').append(
+                '<ul>'+
                     '<li class="prev disabled"><a href="#"><i class="icon-double-angle-left"></i></a></li>'+
                     '<li class="next disabled"><a href="#"><i class="icon-double-angle-right"></i></a></li>'+
                 '</ul>'
